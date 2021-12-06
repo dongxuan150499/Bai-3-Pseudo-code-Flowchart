@@ -1,0 +1,6 @@
+BEGIN
+  Input A: Tien VND
+        B: Tien dollar
+  A=B*23000
+  Display "A"
+END 

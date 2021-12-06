@@ -1,0 +1,14 @@
+BEGIN
+  Input a, b, c
+  IF MAX = a
+    Then a > b and a > c
+    Display "MAX = a"
+  ELSE 
+    Then b > c
+    Display "MAX = b"
+    Else 
+    Display "MAX = c"
+  END IF
+END
+    
+    

@@ -1,0 +1,7 @@
+BEGIN
+   Input a: Math
+         b: Physics
+         c: Chemistry
+   T=(a+b+c)/3
+   Display "Average=T"
+END  

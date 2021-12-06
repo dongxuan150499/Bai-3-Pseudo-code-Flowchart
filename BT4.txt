@@ -1,0 +1,14 @@
+BEGIN
+  Input a1, a2, a3,..., aN
+  IF MAX = a1
+  And i > N
+  Then 
+    Display "MAX = a1"
+  ESLE
+    ai > MAX
+  Then 
+    Display "MAX = ai"
+  ELSE 
+    i = i + 1
+  END IF
+END

@@ -1,0 +1,15 @@
+BEGIN
+  Input X : Diem so
+  IF  x >= 75
+  Then Display "Loai A"
+  Else 60 <= X < 75
+    Then Display "Loai B"
+    Else 45 <= X < 60
+    Then Display "Loai C"
+    Else 35 <= X < 45
+    Then Display "Loai D"
+    Else X < 35
+    Then Display "Loai E"
+  End If
+END 
+    
